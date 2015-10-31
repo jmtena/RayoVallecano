@@ -5,7 +5,7 @@ package es.upm.miw.rayovallecano.models;
  */
 public class FutbolistaContract {
     public static  class  tablaFutbolista{
-        public static final String TABLE_NAME = "tabla_futbolistas";
+        public static final String TABLE_NAME = "futbolistas";
         public static final String COL_NAME_ID = "id";
         public static final String COL_NAME_NOMBRE = "nombre";
         public static final String COL_NAME_DORSAL = "dorsal";

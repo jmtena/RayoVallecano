@@ -16,7 +16,7 @@ import static es.upm.miw.rayovallecano.models.FutbolistaContract.*;
 public class RepositorioFutbolistas extends SQLiteOpenHelper {
     private static final String DATABASE_FILENAME = "futbolistas.db";
 
-    private static final int DATABASE_VERSION = 1;
+    private static final int DATABASE_VERSION = 2;
 
     /**
      * Create a helper object to create, open, and/or manage a database.
