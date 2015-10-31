@@ -3,7 +3,8 @@ package es.upm.miw.rayovallecano.models;
 /**
  * Created by bm0806 on 30/10/2015.
  */
-public class Futbolista {    private int _id;
+public class Futbolista {
+    private int _id;
     private String _nombre;
     private int _dorsal;
     private boolean _lesionado;
